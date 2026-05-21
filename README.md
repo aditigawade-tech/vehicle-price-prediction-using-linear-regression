@@ -8,12 +8,20 @@ Create a Linear Regression model to predict the price (**dependent variable**) o
 ## 📌 Project Overview
 This project demonstrates how to build a **Linear Regression Machine Learning model** to predict vehicle prices using different features such as:
 
-- Brand
-- Year
-- Fuel Type
-- Transmission
-- Kilometers Driven
-- And other vehicle-related parameters
+- Wheel-base
+- Length
+- Width
+- Height
+- Curb-weight
+- Number of Cylinders
+- Engine Size
+- Bore
+- Stroke
+- Compression Ratio
+- Horsepower
+- Peak RPM
+- City MPG
+- Highway MPG
 
 ### 🎯 Main Objectives
 - Data Preprocessing
